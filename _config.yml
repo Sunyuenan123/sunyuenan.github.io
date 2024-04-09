@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sun Yuenan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Wuhan University of Science and Technology"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Wuhan University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sunyuenan@wust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
